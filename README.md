@@ -22,7 +22,7 @@ Tim Berners-Lee is the **inventor** of the Web. In 1989, Tim was working in a co
 
 Humanity finds a mysterious, obviously artificial, object buried beneath the Lunar surface and, with the intelligent computer H.A.L. 9000, sets off on a quest.
 
-![mister Hulot](mister_hulot.jpg)
+![Mister Hulot](mister_hulot.jpg)
 
 ### Monsieur Hulot
 
