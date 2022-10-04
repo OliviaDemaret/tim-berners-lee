@@ -38,6 +38,10 @@ h2 {
   font-weight: bold;
 }
 
+#pf {
+  text-align: justify;
+}
+
 #see {
   margin-top: 20px;
   font-weight: bolder;
