@@ -28,7 +28,7 @@ Humanity finds a mysterious, obviously artificial, object buried beneath the Lun
 
 Monsieur Hulot comes to a beachside hotel for a vacation, where he accidentally (but good-naturedly) causes havoc.
 
-! [Alien](images/alien.jpg)
+![Alien](images/alien.jpg)
 
 ### Alien
 
