@@ -1,4 +1,4 @@
-![Tim Berners-Lee](tim_berners_lee.jpg)
+![Tim Berners-Lee](images/tim_berners_lee.jpg)
 
 # Tim Berners-Lee
 
@@ -16,19 +16,19 @@ Tim Berners-Lee is the **inventor** of the Web. In 1989, Tim was working in a co
 
 ## His Favorite movies
 
-![Space Odyssey](space_odyssey.jpg)
+![Space Odyssey](images/space_odyssey.jpg)
 
 ### 2001 - Space Odyssey
 
 Humanity finds a mysterious, obviously artificial, object buried beneath the Lunar surface and, with the intelligent computer H.A.L. 9000, sets off on a quest.
 
-![Mister Hulot](mister_hulot.jpg)
+![Mister Hulot](images/mister_hulot.jpg)
 
 ### Monsieur Hulot
 
 Monsieur Hulot comes to a beachside hotel for a vacation, where he accidentally (but good-naturedly) causes havoc.
 
-![Alien](alien.jpg)
+! [Alien](images/alien.jpg)
 
 ### Alien
 
