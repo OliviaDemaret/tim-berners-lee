@@ -2,16 +2,21 @@
 
 body {
   font-family: "Open Sans";
-  font-size: 18px;
+  font-size: 20px;
   color: #9d959a;
   background-color: #ebebeb;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  margin-top: 100px;
-  margin-bottom: 100px;
+  margin-top: 50px;
+  margin-bottom: 50px;
   margin-left: 300px;
   margin-right: 300px;
+}
+
+#tim {
+  border-radius: 150px;
+  border-style: solid;
 }
 
 h1 {
@@ -31,7 +36,16 @@ h2 {
 .bold {
   color: #757577;
   font-weight: bold;
-  font-size: larger;
+}
+
+#see {
+  margin-top: 20px;
+  font-weight: bolder;
+  padding: 10px;
+  border-radius: 5px;
+  color: white;
+  text-decoration: none;
+  background-color: #dd5555;
 }
 
 #reseaux {
@@ -80,6 +94,6 @@ h3 {
 }
 
 .imgmovies {
-  height: 200px;
+  height: 250px;
   float: left;
 }
