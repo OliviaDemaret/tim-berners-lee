@@ -8,10 +8,16 @@ body {
 .bold {
   font-weight: bold;
 }
+#favorites {
+}
+.movies {
+  display: inline-block;
+}
 
 #his {
   background-color: grey;
 }
 
-img {
+.imgmovies {
+  float: left;
 }
