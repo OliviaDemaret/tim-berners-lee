@@ -2,22 +2,79 @@
 
 body {
   font-family: "Open Sans";
-  background-color: lightgray;
+  color: #9d959a;
+  background-color: #ebebeb;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-left: 300px;
+  margin-right: 300px;
 }
 
+h1 {
+  color: #dd5554;
+}
+
+header {
+  border-radius: 15px;
+  padding: 50px;
+  background-color: #ffffff;
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
 .bold {
   font-weight: bold;
 }
+
+#reseaux {
+  border-radius: 15px;
+  background-color: #ffffff;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.ar {
+}
+
 #favorites {
+  border-radius: 15px;
+  background-color: #ffffff;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
 }
 .movies {
-  display: inline-block;
+  padding: 50px;
+  flex-direction: column;
+}
+
+h3 {
+  text-align: center;
+}
+
+.divm {
+  display: flex;
+  flex-direction: column;
+  text-align: justify;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
 #his {
-  background-color: grey;
+  background-color: #d3d3d3;
 }
 
 .imgmovies {
+  height: 200px;
   float: left;
 }
